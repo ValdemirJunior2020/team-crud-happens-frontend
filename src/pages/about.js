@@ -15,7 +15,7 @@ export const About = () => (
                 <Image src={juniorPictwo} circle className="profile-pic" alt="holder.js/100px250" roundedCircle fluid />
                 <h3>Junior</h3>
                 <br></br>
-                <p><font size="4">Junior is the heart and soul for this amazing site. A year ago, he experenced a stroke that paralyzed half
+                <p><font size="4">Junior is the heart and soul for this amazing site. 2 years ago, he experenced a stroke that paralyzed half
                     of his body. Unable to use half of his body, he believed, had faith, and kept moving foward, never allowing
                     anything to stop him in reaching his dreams. One of those dreams was to complete his certification in full
                     stack web development with Bethel School of Technology. For 10 months, he has used half of his body to study,
